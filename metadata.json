@@ -1,0 +1,15 @@
+{
+  "name": "ctrlshiftyou-ssh",
+  "version": "0.1.0",
+  "author": "ctrlshiftyou",
+  "summary": "Puppet ssh module",
+  "license": "Apache-2.0",
+  "source": "https://github.com/ctrlshiftyou/puppet-ssh.git",
+  "project_page": "https://github.com/ctrlshiftyou/puppet-ssh.git",
+  "issues_url": "https://github.com/ctrlshiftyou/puppet-ssh.git",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "data_provider": null
+}
+
